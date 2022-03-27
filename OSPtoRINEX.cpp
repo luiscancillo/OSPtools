@@ -30,19 +30,19 @@
  *<p>
  *RXtoRINEX is free software: you can redistribute it and/or modify it under the terms of the GNU General Public License
  *as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version.
- *RXtoRINEX is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied
- *warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+ *<p>RXtoRINEX is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied
+ *<p>warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
  *See the GNU General Public License for more details.
- *A copy of the GNU General Public License can be found at <http://www.gnu.org/licenses/>.
+ *<p>A copy of the GNU General Public License can be found at <http://www.gnu.org/licenses/>.
  *
- *Ver.	|Date	|Reason for change
- *------+-------+------------------
- *V1.0	|2/2015	|First release
- *V2.0	|3/2016	|Removed option to allow selection for GPS and SBAS of observables to include.
- *				|Removed option to generate or not observation file.
- *				|Added capability to generate GLONASS navigation files
- *				|Added capability to generate multiple navigation files in V2.10
- *V2.1	|2/2018	|Reviewed to run on Linux
+ *<p>Ver.	|Date	|Reason for change
+ *<p>------+-------+------------------
+ *<p>V1.0	|2/2015	|First release
+ *<p>V2.0	|3/2016	|Removed option to allow selection for GPS and SBAS of observables to include.
+ *<p>				|Removed option to generate or not observation file.
+ *<p>				|Added capability to generate GLONASS navigation files
+ *<p>				|Added capability to generate multiple navigation files in V2.10
+ *<p>V2.1	|2/2018	|Reviewed to run on Linux
  */
 
 //from CommonClasses

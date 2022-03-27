@@ -14,16 +14,16 @@
  *<p>
  *RXtoRINEX is free software: you can redistribute it and/or modify it under the terms of the GNU General Public License
  *as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version.
- *RXtoRINEX is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied
+ *<p>RXtoRINEX is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied
  *warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
- *See the GNU General Public License for more details.
+ *<p>See the GNU General Public License for more details.
  *A copy of the GNU General Public License can be found at <http://www.gnu.org/licenses/>.
  *
- *Ver.	|Date	|Reason for change
- *------+-------+------------------
- *V1.0	|2/2015	|First release
- *V1.1	|2/2016	|Minor changes to improve logging
- *V1.2	|2/2018	|Reviewed to run on Linux
+ *<p>Ver.	|Date	|Reason for change
+ *<p>------+-------+------------------
+ *<p>V1.0	|2/2015	|First release
+ *<p>V1.1	|2/2016	|Minor changes to improve logging
+ *<p>V1.2	|2/2018	|Reviewed to run on Linux
  */
 
 //from CommonClasses
